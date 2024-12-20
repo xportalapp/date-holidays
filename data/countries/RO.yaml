@@ -40,9 +40,7 @@ holidays:
       orthodox 1:
         _name: easter 1
       05-01:
-        name:
-          ro: Ziua Muncii
-          en: Labour Day
+        _name: 05-01
       orthodox 39:
         _name: easter 39
         type: observance
