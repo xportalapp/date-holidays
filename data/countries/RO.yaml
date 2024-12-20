@@ -43,10 +43,18 @@ holidays:
         name:
           ro: Ziua Muncii
           en: Labour Day
+      orthodox 39:
+        _name: easter 39
+        type: observance
       orthodox 49:
         _name: easter 49
       orthodox 50:
         _name: easter 50
+      Sunday before 06-01:
+        name:
+          ro: Ziua Românilor de Pretutindeni, Ziua Românului de Pretutindeni
+          en: Day of the Romanians Everywhere, Romanian Businessperson Day
+        type: observance
       06-01:
         name:
           ro: Ziua Copilului
